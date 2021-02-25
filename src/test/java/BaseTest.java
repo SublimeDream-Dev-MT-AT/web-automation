@@ -6,7 +6,6 @@ import pages.LoginPage;
 
 public class BaseTest {
     private WebDriver driver;
-    //protected HomePage homePage;
     protected LoginPage loginPage;
 
     @BeforeClass
